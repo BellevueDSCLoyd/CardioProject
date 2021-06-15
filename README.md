@@ -1,6 +1,6 @@
 # Cardio Project
 
-<img src="images/heart.jpg" width ="500">
+<img src="images/heart.png" width ="500">
 
 ## Description 
 
