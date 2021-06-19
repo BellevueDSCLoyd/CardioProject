@@ -14,6 +14,8 @@ Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianov
 
 The [code](code/Cardio.ipynb) was created in python using Jupyter notebook.
 
+If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/CardioProject/blob/master/code/Cardio.ipynb).
+
 ## Tools 
 
 * Jupyter Notebook
