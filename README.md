@@ -4,7 +4,7 @@
 
 ## Description 
 
-Predicting cardiac disease risk using a Kaggle data set.
+Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) data set. The analysis and binary classification model were performed in Python.
 
 ## Documentation
 
