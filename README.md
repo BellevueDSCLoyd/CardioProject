@@ -12,7 +12,7 @@ Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianov
 
 ## Code
 
-The [code](code/Cardio.ipynb) can be found here.
+The [code](code/Cardio.ipynb) was created in python using Jupyter notebook.
 
 ## Tools 
 
