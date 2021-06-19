@@ -4,11 +4,11 @@
 
 ## Description 
 
-Predicting cardiac disease risk.
+Predicting cardiac disease risk using a Kaggle data set.
 
 ## Documentation
 
-[Report](https://github.com/SDLoyd/CardioProject/docs/FinalCardiac.html) of final analysis  
+[Report](docs/FinalCardiac.pdf) of final analysis along with a [power point](powerpoint/KaggleCardiacData.pdf) of conclusions.
 
 ## Code
 
