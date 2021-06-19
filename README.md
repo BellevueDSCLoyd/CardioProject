@@ -8,7 +8,7 @@ Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianov
 
 ## Documentation
 
-[Report](docs/FinalCardiac.pdf) of final analysis along with a [power point](powerpoint/KaggleCardiacData.pdf) of conclusions.
+[Report](docs/FinalCardiac.pdf) of final analysis along with a [powerpoint](powerpoint/KaggleCardiacData.pdf) of conclusions.
 
 ## Code
 
