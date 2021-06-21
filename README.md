@@ -4,7 +4,11 @@
 
 ## Description 
 
-Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) data set. The analysis and binary classification model were performed in Python.
+Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) data set on heart disease. The analysis and binary classification model were performed in Python.
+
+## Data 
+
+[Kaggle Data Set](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 
 ## Documentation
 
@@ -15,6 +19,12 @@ Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianov
 The [code](code/Cardio.ipynb) was created in python using Jupyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/CardioProject/blob/master/code/Cardio.ipynb).
+
+## Instructions
+
+To run this notebook locally, install Jupyter, download the data set, change the file location to load the code and data, and install all the library dependencies.
+
+Try [Anaconda](https://www.anaconda.com/).
 
 ## Tools 
 
