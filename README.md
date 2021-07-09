@@ -14,6 +14,10 @@ Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianov
 
 [Report](docs/FinalCardiac.pdf) of final analysis along with a [powerpoint](powerpoint/KaggleCardiacData.pdf) of conclusions.
 
+## EDA 
+
+A pandas-profiling [report](https://sdloyd.github.io/CardioProject/pandasprofile/cardio-pandas-profile-report.html) is available.
+
 ## Code
 
 The [code](code/Cardio.ipynb) was created in python using Jupyter notebook.
@@ -30,3 +34,7 @@ Try [Anaconda](https://www.anaconda.com/).
 
 * Jupyter Notebook
 * Python 
+
+## Credits
+
+_Heart [image](https://unsplash.com/photos/RQgKM1h2agA) by Alexandru Acea at [Unsplash](https://unsplash.com/)_
