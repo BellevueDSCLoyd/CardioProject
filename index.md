@@ -8,7 +8,7 @@ Predicting cardiac disease risk using a [Kaggle](https://www.kaggle.com/sulianov
 
 ## Data 
 
-[Kaggle Data Set](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+[The Kaggle [data](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) provided by [Svetlana Ulianova](https://www.kaggle.com/sulianova).
 
 ## Documentation
 
